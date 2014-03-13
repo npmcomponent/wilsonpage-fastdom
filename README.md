@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [wilsonpage/fastdom](http://github.com/wilsonpage/fastdom). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/wilsonpage-fastdom`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # fastdom [![Build Status](https://travis-ci.org/wilsonpage/fastdom.png?branch=master)](https://travis-ci.org/wilsonpage/fastdom)
 
 Eliminates layout thrashing by batching DOM read/write operations (~750 bytes gzipped).
